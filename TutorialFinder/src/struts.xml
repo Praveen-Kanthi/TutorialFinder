@@ -8,6 +8,7 @@
 		<action name="getTutorial" class="org.praveen.kanthi.action.TutorialAction">
 			<result name="success">/success.jsp</result>
 			<result name="failuer">/failuer.jsp</result>
+			<result name="abcd">/failuer.jsp</result>
 		</action>
 	</package>
 </struts>
